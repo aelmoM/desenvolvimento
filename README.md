@@ -1,2 +1,2 @@
 # desenvolvimento
-projeto do site de desinvolvimento
+Projeto do site do curso de desinvolvimento
